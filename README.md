@@ -6,4 +6,4 @@
 3. We provide comprehensive evaluations under these two semi-supervised VI-ReID. Extensive experiments on two popular VI-ReID benchmarks demonstrate that our DPIS achieves impressive performance.
 
 ## Framework
-![DPIS](C:\Users\stronger\Desktop\科研\ICCV23\fig\framework_DPIS.png)
+![DPIS](C:/Users/stronger/Desktop/科研/ICCV23/fig/framework_DPIS.png)
