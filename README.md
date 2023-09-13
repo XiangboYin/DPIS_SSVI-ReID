@@ -7,3 +7,16 @@
 
 ## Framework
 ![DPIS](framework_DPIS.png)
+
+## Train
+1. sh run\_train\_sysu.sh for SYSU-MM01
+2. sh run\_train\_regdb.sh for RegDB
+# Test
+1. sh run\_test\_sysu.sh for SYSU-MM01
+2. sh run\_test\_regdb.sh for RegDB
+
+
+## Citation
+
+## Contact
+jiangming.shi@outlook.com; S_yinxb@163.com.
