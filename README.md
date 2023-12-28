@@ -9,19 +9,19 @@
 ![DPIS](framework_DPIS.png)
 
 ## Train
+```
 1. sh run\_train\_sysu.sh for SYSU-MM01
 2. sh run\_train\_regdb.sh for RegDB
+```
 # Test
+```
 1. sh run\_test\_sysu.sh for SYSU-MM01
 2. sh run\_test\_regdb.sh for RegDB
-
-## Contact
-jiangming.shi@outlook.com; S_yinxb@163.com.
-
-The code is implemented based on OTLA.
+```
 
 ## Citation
 If our work is helpful for your research, please consider citing:
+```
 @inproceedings{shi2023dual,
   title={Dual Pseudo-Labels Interactive Self-Training for Semi-Supervised Visible-Infrared Person Re-Identification},
   author={Shi, Jiangming and Zhang, Yachao and Yin, Xiangbo and Xie, Yuan and Zhang, Zhizhong and Fan, Jianping and Shi, Zhongchao and Qu, Yanyun},
@@ -29,3 +29,10 @@ If our work is helpful for your research, please consider citing:
   pages={11218--11228},
   year={2023}
 }
+```
+
+## Contact
+jiangming.shi@outlook.com; S_yinxb@163.com.
+
+The code is implemented based on OTLA.
+
