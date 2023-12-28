@@ -15,7 +15,7 @@ This is an official implementation of "Dual Pseudo-Labels Interactive Self-Train
 1. sh run_train_sysu.sh for SYSU-MM01
 2. sh run_train_regdb.sh for RegDB
 ```
-# Test
+## Test
 ```
 1. sh run_test_sysu.sh for SYSU-MM01
 2. sh run_test_regdb.sh for RegDB
