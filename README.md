@@ -12,13 +12,13 @@ This is an official implementation of "Dual Pseudo-Labels Interactive Self-Train
 
 ## Train
 ```
-1. sh run\_train\_sysu.sh for SYSU-MM01
-2. sh run\_train\_regdb.sh for RegDB
+1. sh run_train_sysu.sh for SYSU-MM01
+2. sh run_train_regdb.sh for RegDB
 ```
 # Test
 ```
-1. sh run\_test\_sysu.sh for SYSU-MM01
-2. sh run\_test\_regdb.sh for RegDB
+1. sh run_test_sysu.sh for SYSU-MM01
+2. sh run_test_regdb.sh for RegDB
 ```
 
 ## Citation
