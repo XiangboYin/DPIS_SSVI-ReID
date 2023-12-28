@@ -1,4 +1,4 @@
-# Dual Pseudo-Labels Interactive Self-Training for Semi-Supervised Visible-Infrared Person Re-Identification ICCV2023 [Papet Link](https://openaccess.thecvf.com/content/ICCV2023/papers/Shi_Dual_Pseudo-Labels_Interactive_Self-Training_for_Semi-Supervised_Visible-Infrared_Person_Re-Identification_ICCV_2023_paper.pdf)
+# Dual Pseudo-Labels Interactive Self-Training for Semi-Supervised Visible-Infrared Person Re-Identification ICCV2023 [Paper Link](https://openaccess.thecvf.com/content/ICCV2023/papers/Shi_Dual_Pseudo-Labels_Interactive_Self-Training_for_Semi-Supervised_Visible-Infrared_Person_Re-Identification_ICCV_2023_paper.pdf)
 
 ## Contribution
 1. We propose a dual pseudo-label interactive self-training framework for semi-supervised visible-infrared person Re-ID, which leverages the intro- and inter-modality characteristics to obtain hybrid pseudo-labels.
